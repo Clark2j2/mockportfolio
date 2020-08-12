@@ -1,0 +1,244 @@
+.header-background{
+    /* width: 700px;
+    height: 60px;
+    /* position: absolute; */
+    /* background-color: #f7f7f7;
+    display: flex;
+    flex-direction: row; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-between; */
+    
+}
+.container{
+    width: 970px;
+}
+.header-left-text{
+    /* position: relative; */
+    text-indent: 8px;
+    font-family: "Comic Sans MS", "Comic Sans";
+    /* margin-top: -5px; */
+    vertical-align: top;
+    background-color: #f7f7f7;
+    width: 1025px;
+}
+.header-left-text h3{
+    display: inline-block;
+}
+.header-left-text h4{
+    display: inline-block;
+    margin-left: 554px;
+}
+.header-right-text{
+    text-align: right;
+    order: 1;
+    padding-right: 20px;
+    font-size: 24px;
+    /* margin-top: -15px; */
+    
+}
+.main{
+    background-image: radial-gradient(#1d0d11, #6f5964);
+    width: 995px;
+    height: 870px;
+    padding: 15px;
+}
+.main-top-left{
+    width: 300px;
+    padding: 20px;
+    margin-right: 10px;
+}
+#selfphoto{
+    width: 365px;
+    border: gray 4px solid;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 45px;
+    margin-left: 45px;
+}
+.main-top{
+    display: inline-block;
+    padding-bottom: 17px;
+}
+.main-top-right{
+    width: 350px;
+    display: inline-block;
+    
+}
+.grayheaders{
+    color: black;
+    width: 450px;
+    background-image: linear-gradient(to right, #ffffff, #dacbd9);
+    display: inline-block;
+    margin: 0px;
+    margin-left: 30px;
+    padding: 0px;
+    font-size: 14px;
+    padding-bottom: 13px;
+    
+}
+p{
+    padding: 10px;
+    margin: 0px;
+    padding-bottom: 20px;
+}
+.main-top-right-body{
+    background-color: white;
+    padding: 10px;
+    width: 100%;
+    order: 2;
+}
+.grayheaders h3{
+    background-image: radial-gradient(#b4b3b7, #898794);
+    margin-top: 0px;
+    padding: 10px;
+    color: white;
+    margin-bottom: 5px;
+}
+.main-bottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding-top: 20px;
+    margin-left: 0px;
+}   
+.main-bottom{
+    
+}
+.bottom-left{
+    min-height: 572px;
+    background-color: white;
+}
+.bottom-left  h3{
+    background-image: radial-gradient(#b4b3b7, #898794);
+    color: white;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#lamode{
+    height: 175px;
+}
+.bottom-left img{
+    height: 30px;
+    padding: 0px;
+}
+.tech{
+    padding: 0px;
+    background-image: linear-gradient(to right, #ffffff, #dacbd9);
+    height: 205px;
+}
+.tech img{
+    height: 44px;
+    padding-top: 8px;
+    margin: 0px;
+    padding-left: 7px;
+}
+.tech button{
+    background-color: #407d61;
+    border-radius: 6px;
+    color: white;
+    position: relative;
+    top: -7px;
+    left: 118px;
+}
+.bottom-middle{
+    min-height: 550px;
+    background-color: white;
+}
+.bottom-middle h3{
+    background-image: radial-gradient(#b4b3b7, #898794);
+    color: white;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#familycontactsphoto{
+    height:175px
+}
+.bottom-middle img{
+    height: 30px;
+    padding: 0px;
+}
+.tech img{
+    height: 44px;
+    padding-top: 8px;
+    margin: 0px;
+    padding-left: 7px;
+}
+#button2{
+    background-color: #407d61;
+    border-radius: 6px;
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 100px
+}
+.bottom-right{
+    min-height: 600px;
+    background-color: white;
+}
+.bottom-right h3{
+    background-image: radial-gradient(#b4b3b7, #898794);
+    color: white;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#fiveEleven{
+    height: 175px;
+}
+.bottom-right img{
+    height: 30px;
+    padding: 0px;
+}
+.tech img{
+    height: 44px;
+    padding-top: 8px;
+    margin: 0px;
+    padding-left: 12px;
+}
+.textonetwo{
+    padding-bottom: 38px;
+    background-image: linear-gradient(to right, #ffffff, #dacbd9);
+}
+#button3{
+    background-color: #407d61;
+    border-radius: 6px;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: -60px;
+}
+#contactinfo{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 8px;
+    background-color: #f7f7f7;
+}
+.socialmedia{
+    padding-top: 0px;
+    display: inline-block;
+    text-align: center;
+    padding-left: 0px;
+}
+#firstsocialicon{
+    height: 15px;
+    align-content: center;
+    display: inline-block;
+    padding-left: 300px;
+}
+.socialicons{
+    height: 15px;
+    align-content: center;
+    display: inline-block;
+}
+.fill{
+    background-image: linear-gradient(to right, #ffffff, #dacbd9);
+}
+.footer{
+    display: inline-block;
+    background-color: #f7f7f7;
+    width: 1025px;
+    position: relative;
+    left: -15px
+}
